@@ -1,2 +1,2 @@
 # CFB
-Exercises
+Computation For Biologists ~ Exercises
